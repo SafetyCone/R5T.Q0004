@@ -7,7 +7,12 @@ namespace R5T.Q0004
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            //Explorations.Instance.FirstRender();
+            //Explorations.Instance.SecondRender();
+            //Explorations.Instance.NoParameterSet();
+            //Explorations.Instance.WhatAboutAsynchronous();
+            //Explorations.Instance.WhatAboutComponentWithComponentWithLayout();
+            Explorations.Instance.WhatAboutComponentWithComponentWithChildContent();
         }
     }
 }
